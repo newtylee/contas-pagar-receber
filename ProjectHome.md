@@ -1,0 +1,1 @@
+Sistema para gerenciar todas as contas a pagar e a receber
